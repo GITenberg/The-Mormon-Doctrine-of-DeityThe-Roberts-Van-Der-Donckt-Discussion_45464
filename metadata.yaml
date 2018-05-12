@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37629
     wikipedia: http://en.wikipedia.org/wiki/B._H._Roberts
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45464#The-Mormon-Doctrine-of-DeityThe-Roberts-Van-Der-Donckt-Discussion
 gutenberg_bookshelf: Latter Day Saints
 gutenberg_issued: '2014-04-24'
 gutenberg_type: Text
