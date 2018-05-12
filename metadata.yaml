@@ -1,0 +1,43 @@
+_repo: The-Mormon-Doctrine-of-DeityThe-Roberts-Van-Der-Donckt-Discussion_45464
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Van der Donckt, Cyril
+    aliases:
+    - VanderDonckt, Cyril
+    - Donckt, Cyril van der
+    birthdate: 1865
+    gutenberg_agent_id: '42241'
+    url: http://www.gutenberg.org/2009/agents/42241
+covers:
+- cover_type: archival
+  image_path: 45464-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Roberts, B. H. (Brigham Henry)
+    alias: Roberts, Brigham Henry
+    birthdate: 1857
+    deathdate: 1933
+    gutenberg_agent_id: '37629'
+    url: http://www.gutenberg.org/2009/agents/37629
+    wikipedia: http://en.wikipedia.org/wiki/B._H._Roberts
+description: ''
+gutenberg_bookshelf: Latter Day Saints
+gutenberg_issued: '2014-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45464'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'God (Christianity)'
+- !lcsh 'Mormon Church -- Doctrines'
+- !lcc 'BX'
+- !lcsh 'Jesus Christ -- Mormon interpretations'
+- !lcsh 'Church of Jesus Christ of Latter-day Saints -- Doctrines'
+title: "The Mormon Doctrine of Deity: The Roberts-Van Der Donckt Discussion\r\nTo\
+  \ which is added a discourse, Jesus Christ, the revelation of God; also a collection\
+  \ of authoritative Mormon utterances on the being and nature of God"
+url: http://www.gutenberg.org/ebooks/45464
